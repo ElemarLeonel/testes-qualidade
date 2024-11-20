@@ -102,8 +102,6 @@ Agora, execute o comando a seguir para rodar em modo de cobertura.
   npm run test:coverage
 ```
 
-[Elemar Leonel](https://github.com/ElemarLeonel)
-
 ## Authors
 
 - [@elemarleonel](https://github.com/ElemarLeonel/)
