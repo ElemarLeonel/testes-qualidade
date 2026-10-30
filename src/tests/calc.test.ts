@@ -25,4 +25,3 @@ test('Dividir 10 por 5 para que seja igual a 2', () => {
 test('Pegar o resultado da divisão de 10 por 2', () => {
     expect(restDivision(10, 2)).toBe(0);
 });
-
